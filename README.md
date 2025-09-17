@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Привет, я Антон Семенов
 
-<!--
-**asemenov2004/asemenov2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Инженер данных | Студент 3 курса ЮФУ**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Образование
+**Южный Федеральный Университет (ЮФУ)**  
+Направление: Прикладная информатика  
+Курс: 3-й
+
+---
+
+## 🚀 Обо мне
+- 🔍 В активном поиске работы/стажировки
+- ✅ Готов выполнить тестовое задание
+- 📚 Постоянно изучаю новые технологии в области Data Engineering
+- 💡 Интересуюсь ETL-процессами, облачными технологиями и Big Data
+
+---
+
+## 📍 Локация
+**Россия, г. Ростов-на-Дону**
+
+---
+
+## 📞 Контакты
+[![Telegram](https://img.shields.io/badge/Telegram-@toxa__semenov-blue?style=flat&logo=telegram)](https://t.me/toxa_semenov)  
+[![Email](https://img.shields.io/badge/Email-asemenov2004@gmail.com-red?style=flat&logo=gmail)](mailto:asemenov2004@gmail.com)
+
+---
